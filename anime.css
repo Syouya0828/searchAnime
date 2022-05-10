@@ -1,0 +1,86 @@
+html{
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+a, i{
+    text-decoration: none;
+}
+header{
+    background-color: aliceblue;
+    height: 70px;
+}
+header img{
+    float:right;
+    margin: auto 0;
+    text-align: center;
+}
+#main{
+    height: 700px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+.logo{
+    width: 700px;
+    margin-bottom: 100px;
+}
+#post-form{
+    text-align: center;
+}
+span img{
+    margin-left: 5px;
+    width: 15px;
+}
+select{
+    width: 100px;
+}
+button{
+    margin-top: 20px;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+}
+.anime{
+    width:350px;
+    height:200px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+    vertical-align: top;
+    box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 0.2;
+}
+.title{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 20px;
+}
+.links{
+    text-align: center;
+    
+}
+.anime img{
+    width: 30px;
+   
+}
+.twitter img{
+    margin-left:50px;
+}
+#anime-contents{
+    margin: 20 auto;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    display: inline-block;
+    vertical-align: top;
+    margin:50 50;
+}
+.searchResult{
+    font-size: 30px;
+    text-align: center;
+    margin: 20px 0;
+    
+}
+
